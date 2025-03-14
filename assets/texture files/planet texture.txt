@@ -1,0 +1,5 @@
+Mars Planet Texture:
+https://www.solarsystemscope.com/textures/
+
+Skybox texture:
+https://assetstore.unity.com/packages/2d/textures-materials/sky/free-skyboxes-space-178953?srsltid=AfmBOopQhtY2vENKl-2Sfz_FhGv13PJDrfLtYwtytdf86RSnvwtG3IaX
